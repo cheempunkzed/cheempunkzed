@@ -117,11 +117,15 @@ Code is just another way for matter to organize itself and create new realities.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cheempunkzed&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="./profile/stats.svg">
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheempunkzed&layout=compact&theme=tokyonight&hide_border=true">
+<img src="./profile/langs.svg">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheempunkzed&theme=tokyo-night&hide_border=true">
 
 </div>
 
@@ -132,7 +136,7 @@ Code is just another way for matter to organize itself and create new realities.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cheempunkzed/cheempunkzed/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/cheempunkzed/cheempunkzed/gh-pages/github-contribution-grid-snake-dark.svg">
 
 </div>
 
