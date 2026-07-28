@@ -115,12 +115,6 @@ Code is just another way for matter to organize itself and create new realities.
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="./profile/stats.svg">
-
-<br><br>
-
 <img src="./profile/langs.svg">
 
 <br><br>
@@ -128,7 +122,6 @@ Code is just another way for matter to organize itself and create new realities.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheempunkzed&theme=tokyo-night&hide_border=true">
 
 </div>
-
 
 ---
 
@@ -139,7 +132,6 @@ Code is just another way for matter to organize itself and create new realities.
 <img src="https://raw.githubusercontent.com/cheempunkzed/cheempunkzed/gh-pages/github-contribution-grid-snake-dark.svg">
 
 </div>
-
 
 ---
 
